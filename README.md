@@ -3,3 +3,6 @@ Updated Portfolio using Freelancer, a portfolio theme for [Bootstrap](http://get
 
 ## Preview
 [![Freelancer Preview](https://github.com/joannebadua/Portfolio/blob/master/Assets/Screenshot.png)](https://joannebadua.github.io/portfolio/)
+
+### Credits
+- Tailorbrands.com
